@@ -1,4 +1,4 @@
-# Exemples
+# Exemples à lire
 
-- [GT HOTEL](./hotel.md)
 - [GT FASHION](./fashion.md)
+- [GT HOTEL](./hotel.md)

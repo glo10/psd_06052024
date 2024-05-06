@@ -1,6 +1,6 @@
 # QUIZ d'entrainement par thématique
 
-## QUIZ 0
+## Exercice 0
 
 ### SCRUM GUIDE
 
