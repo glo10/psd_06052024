@@ -97,7 +97,7 @@ Managing Products with Agility:
 
 - **LISEZ ET ECOUTEZ LE SCRUM GUIDE 2020 TOUS LES JOURS**
 - [Les conseils de Pachai Devaraj](https://pachai-devaraj.medium.com/professional-scrum-master-i-cheat-sheet-tips-8906d51d3426)
-**WARNING** : attention pour le point 6, Sprint Porgress n'est pas un artefact de SCRUM. LEs 3 Artefacts sont Product Backlog, Sprint BackLog et l'incrément.
+**WARNING** : attention pour le point 6, Sprint Progress n'est pas un artefact de SCRUM. Les 3 Artefacts sont Product Backlog, Sprint BackLog et l'incrément.
 
 ---
 

@@ -8,7 +8,7 @@ Elle n'est pas connue par le grand public parce que son expertise était jusqu'�
 
 L'entreprise souhaite donc développer sa présence en proposant les dernières tendances vestimentaires pour les particuliers par le biais du coaching personnalisé (achat et association d'articles).
 
-Elle cible uniquement les hommes pour le lancement. L'extension de la cible dépendra des retours et de l’évolution du CÀ engendré une fois qu'elle pourra exploiter la solution à développer.
+Elle cible uniquement les hommes pour le lancement. L'extension de la cible dépendra des retours et de l’évolution du CA (chiffre d'affaires) engendré une fois qu'elle pourra exploiter la solution à développer.
 
 *GT-Fashion* souhaite afficher des extraits des vidéos réalisées par ses équipes pour présenter l'entreprise et donner des conseils à travers des tutoriels réalisés par son équipe de communication.
 
